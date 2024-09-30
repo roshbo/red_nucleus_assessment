@@ -1,0 +1,38 @@
+✅ Visual design for the application (figma) - https://www.figma.com/design/kXIXt0POxVG7JJKMjLuIQW/Untitled?node-id=0-1&node-type=canvas&t=1Bu9FqkyUPxGuip4-0
+✅ record video about the design
+✅ find and download models - note the authors and location for reference
+
+
+//build
+✅ create the barebone for the project (install next.js, tailwind, gsap)
+✅ clean the project and structure the folders
+✅ create and design the main canva with a stage and shadows and light
+✅ load the inital 3d model
+✅ create top nav
+✅ create the hero title
+✅ create the toggle group buttons to switch between the models
+✅ create the functionality to load the different modals on toggle
+
+✅ record a video to talk about the structure and AI involvement
+
+✅ layout the buttons for the label, camera angles
+✅ create and design the label for the models
+✅ add the functionality to hide and show labels
+✅ add modal credits funtionality
+✅ add hover card for each stage buttons
+✅ add functionality for the camera angles
+
+✅ add more spotlight to the stage, different shades of color
+✅ add main preloader
+✅ camera intro animation when it first loads with gsap
+✅ add gsap animations to elements when it first loads using gsap
+
+✅ check mobile and fix any manjor issues
+
+//final
+✅ Final video recording
+✅ Edit the video for final deliverable  
+✅ Write and Document the project
+✅ update readme file
+✅ push code to github to share
+✅ delpoy to Vercel
