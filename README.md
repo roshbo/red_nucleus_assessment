@@ -20,7 +20,7 @@ You can view the design files for this project on [Figma](https://www.figma.com/
 
 ## Live Site
 
-The live version of this application is hosted on Vercel (link to be announced).
+The live Vercel url: https://red-nucleus-assessment.vercel.app/
 
 ## Getting Started
 
